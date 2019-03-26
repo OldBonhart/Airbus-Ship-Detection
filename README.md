@@ -1,5 +1,5 @@
 
-![alt text](https://hsto.org/webt/mu/kx/gb/mukxgbd0ziyg5hpxyf_ijb06yz0.png)
+![alt text](https://github.com/OldBonhart/Airbus-Ship-Detection/blob/master/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
 Грузопоток быстро растет. Большое количество судов увеличивает вероятность неприятностей в море,
  таких как: аварии на судах повлекшие за собой экологические разрушения, торговля схожой манерой как вел ее Васко да Гама,
